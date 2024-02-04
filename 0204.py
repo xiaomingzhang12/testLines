@@ -7,6 +7,8 @@ def add(x, y):
  
    return x + y
  
+这是一个减法
+
 def subtract(x, y):
    """相减"""
  
@@ -24,7 +26,6 @@ def divide(x, y):
  
 # 用户输入
 print("选择运算：")
-print("1、相加")
 print("2、相减")
 print("3、相乘")
 print("4、相除")
